@@ -1,5 +1,5 @@
 {
-  "name": "c2dm",
+  "name": "C2DM",
   "description": "An interface to the Android Cloud to Device Messaging (C2DM) service for Node.js",
   "version": "1.2.2",
   "author": "Yury Proshchenko <spect.man@gmail.com>",
